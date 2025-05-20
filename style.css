@@ -18,8 +18,8 @@ body {
 }
 
 .topnav a:hover {
-   background-color: #7AD9FF;
-   color: skyblue;
+   background-color: #005FB5;
+   color: navyblue;
 }
 
 .topnav a.active {
